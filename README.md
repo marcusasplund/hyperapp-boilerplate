@@ -1,6 +1,6 @@
-[![GitHub issues](https://img.shields.io/github/issues/tzellman/hyperapp-boilerplate.svg)](https://github.com/tzellman/hyperapp-boilerplate/issues)
-[![Build status](https://travis-ci.org/tzellman/hyperapp-boilerplate.svg?branch=master)](https://travis-ci.org/marcusasplund/tzellman/hyperapp-boilerplate)
-[![dependencies](https://david-dm.org/tzellman/hyperapp-boilerplate.svg)](https://david-dm.org/tzellman/hyperapp-boilerplate)
+[![GitHub issues](https://img.shields.io/github/issues/marcusasplund/hyperapp-boilerplate.svg)](https://github.com/marcusasplund/hyperapp-boilerplate/issues)
+[![Build status](https://travis-ci.org/marcusasplund/hyperapp-boilerplate.svg?branch=master)](https://travis-ci.org/marcusasplund/marcusasplund/hyperapp-boilerplate)
+[![dependencies](https://david-dm.org/marcusasplund/hyperapp-boilerplate.svg)](https://david-dm.org/marcusasplund/hyperapp-boilerplate)
 
 # [HyperApp](https://github.com/hyperapp/hyperapp) Boilerplate
 
